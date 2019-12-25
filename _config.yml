@@ -1,7 +1,7 @@
 # Site
-name: "Mediumish"
-title: "Mediumish"
-description: "Jekyll template, Medium styled, free for bloggers."
+name: "Urban Doodles"
+title: "Urban Doodles"
+description: "Golden Doodle puppies from South Lake Union in Seattle!"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: /mediumish-theme-jekyll
@@ -13,17 +13,15 @@ permalink: /:title/
 
 # Authors
 authors:
-  sal:
-    name: Sal
-    display_name: Sal
+  Will:
+    name: Will
+    display_name: Will
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
+    email: wil.sorenson@gmail.com
     description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
-  john:
-    name: John
-    display_name: John    
+  Fei:
+    name: Fei
+    display_name: Fei    
     avatar: 'assets/images/avatar.png'
     gravatar: b1cc14991db7a456fcd761680bbc8f81
     email: wowthemesnet@gmail.com
